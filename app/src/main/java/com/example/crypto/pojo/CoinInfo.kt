@@ -1,11 +1,7 @@
 package com.example.crypto.pojo
 
-import android.media.Rating
-import com.google.gson.annotations.Expose;
-import com.google.gson.annotations.SerializedName;
-
-
-
+import com.google.gson.annotations.Expose
+import com.google.gson.annotations.SerializedName
 
 data class CoinInfo(
     @SerializedName("Id")
